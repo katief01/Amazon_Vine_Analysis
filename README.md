@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis of the Vine program:
-The purpose of this challenge was to analyze Amazon reviews written by members of the Amazon Vine program to determine if there is any bias toward favorable reviews from Vine members in a sports equipment reviews dataset. I used PySpark to perform the ETL process by extracting the data, transforming the data, and connecting to a database generated through the AWS webserver.
+The purpose of this challenge was to analyze Amazon reviews written by members of the Amazon Vine program to determine if there is any bias toward favorable reviews from Vine members in a sports equipment reviews dataset. I used PySpark to perform the ETL process by extracting, transforming, and connecting the data to a database generated through the AWS webserver.
 
 ## Results:
 ### Number of Vine reviews and non-Vine reviews:
